@@ -5,10 +5,10 @@ ATL,Kevin Huerter,https://www.basketball-reference.com/players/h/huertke01.html
 ATL,Clint Capela,https://www.basketball-reference.com/players/c/capelca01.html
 ATL,Danilo Gallinari,https://www.basketball-reference.com/players/g/gallida01.html
 ATL,John Collins,https://www.basketball-reference.com/players/c/collijo01.html
-ATL,Bogdan Bogdanović,https://www.basketball-reference.com/players/b/bogdabo01.html
+ATL,Bogdan Bogdanovic,https://www.basketball-reference.com/players/b/bogdabo01.html
 ATL,Lou Williams,https://www.basketball-reference.com/players/w/willilo02.html
 ATL,Gorgui Dieng,https://www.basketball-reference.com/players/d/dienggo01.html
-ATL,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/players/l/luwawti01.html
+ATL,Timothe Luwawu-Cabarrot,https://www.basketball-reference.com/players/l/luwawti01.html
 ATL,De'Andre Hunter,https://www.basketball-reference.com/players/h/huntede01.html
 ATL,Onyeka Okongwu,https://www.basketball-reference.com/players/o/okongon01.html
 ATL,Skylar Mays,https://www.basketball-reference.com/players/m/mayssk01.html
@@ -30,7 +30,7 @@ BRK,Kyrie Irving,https://www.basketball-reference.com/players/i/irvinky01.html
 BRK,Joe Harris,https://www.basketball-reference.com/players/h/harrijo01.html
 BRK,Seth Curry,https://www.basketball-reference.com/players/c/curryse01.html
 BRK,Andre Drummond,https://www.basketball-reference.com/players/d/drumman01.html
-BRK,Goran Dragić,https://www.basketball-reference.com/players/d/dragigo01.html
+BRK,Goran Dragic,https://www.basketball-reference.com/players/d/dragigo01.html
 BRK,Ben Simmons,https://www.basketball-reference.com/players/s/simmobe01.html
 BOS,Jayson Tatum,https://www.basketball-reference.com/players/t/tatumja01.html
 BOS,Grant Williams,https://www.basketball-reference.com/players/w/willigr01.html
@@ -67,7 +67,7 @@ CHO,Isaiah Thomas,https://www.basketball-reference.com/players/t/thomais02.html
 CHO,Arnoldas Kulboka,https://www.basketball-reference.com/players/k/kulboar01.html
 CHI,DeMar DeRozan,https://www.basketball-reference.com/players/d/derozde01.html
 CHI,Ayo Dosunmu,https://www.basketball-reference.com/players/d/dosunay01.html
-CHI,Nikola Vučević,https://www.basketball-reference.com/players/v/vucevni01.html
+CHI,Nikola Vucevic,https://www.basketball-reference.com/players/v/vucevni01.html
 CHI,Troy Brown Jr.,https://www.basketball-reference.com/players/b/browntr01.html
 CHI,Zach LaVine,https://www.basketball-reference.com/players/l/lavinza01.html
 CHI,Javonte Green,https://www.basketball-reference.com/players/g/greenja02.html
@@ -102,7 +102,7 @@ DAL,Dwight Powell,https://www.basketball-reference.com/players/p/poweldw01.html
 DAL,Jalen Brunson,https://www.basketball-reference.com/players/b/brunsja01.html
 DAL,Dorian Finney-Smith,https://www.basketball-reference.com/players/f/finnedo01.html
 DAL,Reggie Bullock,https://www.basketball-reference.com/players/b/bullore01.html
-DAL,Luka Dončić,https://www.basketball-reference.com/players/d/doncilu01.html
+DAL,Luka Doncic,https://www.basketball-reference.com/players/d/doncilu01.html
 DAL,Josh Green,https://www.basketball-reference.com/players/g/greenjo02.html
 DAL,Frank Ntilikina,https://www.basketball-reference.com/players/n/ntilila01.html
 DAL,Maxi Kleber,https://www.basketball-reference.com/players/k/klebima01.html
@@ -110,16 +110,16 @@ DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/players/h/hardati02.ht
 DAL,Sterling Brown,https://www.basketball-reference.com/players/b/brownst02.html
 DAL,Trey Burke,https://www.basketball-reference.com/players/b/burketr01.html
 DAL,Marquese Chriss,https://www.basketball-reference.com/players/c/chrisma01.html
-DAL,Boban Marjanović,https://www.basketball-reference.com/players/m/marjabo01.html
+DAL,Boban Marjanovic,https://www.basketball-reference.com/players/m/marjabo01.html
 DAL,Theo Pinson,https://www.basketball-reference.com/players/p/pinsoth01.html
 DAL,Spencer Dinwiddie,https://www.basketball-reference.com/players/d/dinwisp01.html
-DAL,Dāvis Bertāns,https://www.basketball-reference.com/players/b/bertada01.html
+DAL,Davis Bertans,https://www.basketball-reference.com/players/b/bertada01.html
 DAL,Moses Wright,https://www.basketball-reference.com/players/w/wrighmo01.html
 DEN,Jeff Green,https://www.basketball-reference.com/players/g/greenje02.html
 DEN,Aaron Gordon,https://www.basketball-reference.com/players/g/gordoaa01.html
 DEN,Monte Morris,https://www.basketball-reference.com/players/m/morrimo01.html
 DEN,Facundo Campazzo,https://www.basketball-reference.com/players/c/campafa01.html
-DEN,Nikola Jokić,https://www.basketball-reference.com/players/j/jokicni01.html
+DEN,Nikola Jokic,https://www.basketball-reference.com/players/j/jokicni01.html
 DEN,Will Barton,https://www.basketball-reference.com/players/b/bartowi01.html
 DEN,Bones Hyland,https://www.basketball-reference.com/players/h/hylanbo01.html
 DEN,JaMychal Green,https://www.basketball-reference.com/players/g/greenja01.html
@@ -128,7 +128,7 @@ DEN,Zeke Nnaji,https://www.basketball-reference.com/players/n/nnajize01.html
 DEN,Davon Reed,https://www.basketball-reference.com/players/r/reedda01.html
 DEN,Markus Howard,https://www.basketball-reference.com/players/h/howarma02.html
 DEN,Bryn Forbes,https://www.basketball-reference.com/players/f/forbebr01.html
-DEN,Vlatko Čančar,https://www.basketball-reference.com/players/c/cancavl01.html
+DEN,Vlatko Cancar,https://www.basketball-reference.com/players/c/cancavl01.html
 DEN,DeMarcus Cousins,https://www.basketball-reference.com/players/c/couside01.html
 DEN,Michael Porter Jr.,https://www.basketball-reference.com/players/p/portemi01.html
 DEN,Jamal Murray,https://www.basketball-reference.com/players/m/murraja01.html
@@ -169,7 +169,7 @@ GSW,James Wiseman,https://www.basketball-reference.com/players/w/wisemja01.html
 HOU,Jae'Sean Tate,https://www.basketball-reference.com/players/t/tateja01.html
 HOU,Kenyon Martin Jr.,https://www.basketball-reference.com/players/m/martike04.html
 HOU,Christian Wood,https://www.basketball-reference.com/players/w/woodch01.html
-HOU,Alperen Şengün,https://www.basketball-reference.com/players/s/sengual01.html
+HOU,Alperen Sengun,https://www.basketball-reference.com/players/s/sengual01.html
 HOU,Josh Christopher,https://www.basketball-reference.com/players/c/chrisjo01.html
 HOU,Eric Gordon,https://www.basketball-reference.com/players/g/gordoer01.html
 HOU,Jalen Green,https://www.basketball-reference.com/players/g/greenja05.html
@@ -179,7 +179,7 @@ HOU,David Nwaba,https://www.basketball-reference.com/players/n/nwabada01.html
 HOU,Usman Garuba,https://www.basketball-reference.com/players/g/garubus01.html
 HOU,Trevelin Queen,https://www.basketball-reference.com/players/q/queentr01.html
 HOU,Daishen Nix,https://www.basketball-reference.com/players/n/nixda01.html
-HOU,Dennis Schröder,https://www.basketball-reference.com/players/s/schrode01.html
+HOU,Dennis Schroder,https://www.basketball-reference.com/players/s/schrode01.html
 HOU,Bruno Fernando,https://www.basketball-reference.com/players/f/fernabr01.html
 HOU,John Wall,https://www.basketball-reference.com/players/w/walljo01.html
 IND,Chris Duarte,https://www.basketball-reference.com/players/d/duartch01.html
@@ -301,14 +301,14 @@ MIN,Jake Layman,https://www.basketball-reference.com/players/l/laymaja01.html
 MIN,McKinley Wright IV,https://www.basketball-reference.com/players/w/wrighmc01.html
 NOP,Herbert Jones,https://www.basketball-reference.com/players/j/joneshe01.html
 NOP,Devonte' Graham,https://www.basketball-reference.com/players/g/grahade01.html
-NOP,Jonas Valančiūnas,https://www.basketball-reference.com/players/v/valanjo01.html
+NOP,Jonas Valanciunas,https://www.basketball-reference.com/players/v/valanjo01.html
 NOP,Garrett Temple,https://www.basketball-reference.com/players/t/templga01.html
 NOP,Jaxson Hayes,https://www.basketball-reference.com/players/h/hayesja02.html
 NOP,Brandon Ingram,https://www.basketball-reference.com/players/i/ingrabr01.html
 NOP,Trey Murphy III,https://www.basketball-reference.com/players/m/murphtr02.html
 NOP,Naji Marshall,https://www.basketball-reference.com/players/m/marshna01.html
 NOP,Jose Alvarado,https://www.basketball-reference.com/players/a/alvarjo01.html
-NOP,Willy Hernangómez,https://www.basketball-reference.com/players/h/hernawi01.html
+NOP,Willy Hernangomez,https://www.basketball-reference.com/players/h/hernawi01.html
 NOP,Gary Clark,https://www.basketball-reference.com/players/c/clarkga01.html
 NOP,Kira Lewis Jr.,https://www.basketball-reference.com/players/l/lewiski01.html
 NOP,CJ McCollum,https://www.basketball-reference.com/players/m/mccolcj01.html
@@ -332,7 +332,7 @@ NYK,Miles McBride,https://www.basketball-reference.com/players/m/mcbrimi01.html
 NYK,Jericho Sims,https://www.basketball-reference.com/players/s/simsje01.html
 NYK,Cam Reddish,https://www.basketball-reference.com/players/r/reddica01.html
 NYK,Ryan Arcidiacono,https://www.basketball-reference.com/players/a/arcidry01.html
-NYK,Luka Šamanić,https://www.basketball-reference.com/players/s/samanlu01.html
+NYK,Luka Samanic,https://www.basketball-reference.com/players/s/samanlu01.html
 OKC,Darius Bazley,https://www.basketball-reference.com/players/b/bazleda01.html
 OKC,Josh Giddey,https://www.basketball-reference.com/players/g/giddejo01.html
 OKC,Luguentz Dort,https://www.basketball-reference.com/players/d/dortlu01.html
@@ -345,7 +345,7 @@ OKC,Jeremiah Robinson-Earl,https://www.basketball-reference.com/players/r/robinj
 OKC,Mike Muscala,https://www.basketball-reference.com/players/m/muscami01.html
 OKC,Derrick Favors,https://www.basketball-reference.com/players/f/favorde01.html
 OKC,Aaron Wiggins,https://www.basketball-reference.com/players/w/wiggiaa01.html
-OKC,Théo Maledon,https://www.basketball-reference.com/players/m/maledth01.html
+OKC,Theo Maledon,https://www.basketball-reference.com/players/m/maledth01.html
 OKC,Isaiah Roby,https://www.basketball-reference.com/players/r/robyis01.html
 OKC,Vit Krejci,https://www.basketball-reference.com/players/k/krejcvi01.html
 OKC,Lindy Waters III,https://www.basketball-reference.com/players/w/waterli01.html
@@ -400,9 +400,9 @@ PHO,Frank Kaminsky,https://www.basketball-reference.com/players/k/kaminfr01.html
 PHO,Torrey Craig,https://www.basketball-reference.com/players/c/craigto01.html
 PHO,Aaron Holiday,https://www.basketball-reference.com/players/h/holidaa01.html
 PHO,Emanuel Terry,https://www.basketball-reference.com/players/t/terryem01.html
-PHO,Dario Šarić,https://www.basketball-reference.com/players/s/saricda01.html
+PHO,Dario Saric,https://www.basketball-reference.com/players/s/saricda01.html
 POR,Anfernee Simons,https://www.basketball-reference.com/players/s/simonan01.html
-POR,Jusuf Nurkić,https://www.basketball-reference.com/players/n/nurkiju01.html
+POR,Jusuf Nurkic,https://www.basketball-reference.com/players/n/nurkiju01.html
 POR,Ben McLemore,https://www.basketball-reference.com/players/m/mclembe01.html
 POR,Nassir Little,https://www.basketball-reference.com/players/l/littlna01.html
 POR,CJ Elleby,https://www.basketball-reference.com/players/e/ellebcj01.html
@@ -464,7 +464,7 @@ TOR,Isaac Bonga,https://www.basketball-reference.com/players/b/bongais01.html
 TOR,Thaddeus Young,https://www.basketball-reference.com/players/y/youngth01.html
 TOR,D.J. Wilson,https://www.basketball-reference.com/players/w/wilsodj01.html
 TOR,David Johnson,https://www.basketball-reference.com/players/j/johnsda08.html
-UTA,Bojan Bogdanović,https://www.basketball-reference.com/players/b/bogdabo02.html
+UTA,Bojan Bogdanovic,https://www.basketball-reference.com/players/b/bogdabo02.html
 UTA,Jordan Clarkson,https://www.basketball-reference.com/players/c/clarkjo01.html
 UTA,Royce O'Neale,https://www.basketball-reference.com/players/o/onealro01.html
 UTA,Mike Conley,https://www.basketball-reference.com/players/c/conlemi01.html
@@ -478,7 +478,7 @@ UTA,Jared Butler,https://www.basketball-reference.com/players/b/butleja02.html
 UTA,Udoka Azubuike,https://www.basketball-reference.com/players/a/azubuud01.html
 UTA,Danuel House Jr.,https://www.basketball-reference.com/players/h/houseda01.html
 UTA,Nickeil Alexander-Walker,https://www.basketball-reference.com/players/a/alexani01.html
-UTA,Juancho Hernangómez,https://www.basketball-reference.com/players/h/hernaju01.html
+UTA,Juancho Hernangomez,https://www.basketball-reference.com/players/h/hernaju01.html
 UTA,Xavier Sneed,https://www.basketball-reference.com/players/s/sneedxa01.html
 WAS,Deni Avdija,https://www.basketball-reference.com/players/a/avdijde01.html
 WAS,Kyle Kuzma,https://www.basketball-reference.com/players/k/kuzmaky01.html
@@ -494,6 +494,6 @@ WAS,Isaiah Todd,https://www.basketball-reference.com/players/t/toddis01.html
 WAS,Ish Smith,https://www.basketball-reference.com/players/s/smithis01.html
 WAS,Joel Ayayi,https://www.basketball-reference.com/players/a/ayayijo01.html
 WAS,Cassius Winston,https://www.basketball-reference.com/players/w/winstca01.html
-WAS,Tomáš Satoranský,https://www.basketball-reference.com/players/s/satorto01.html
+WAS,Tomas Satoransky,https://www.basketball-reference.com/players/s/satorto01.html
 WAS,Vernon Carey Jr.,https://www.basketball-reference.com/players/c/careyve01.html
-WAS,Kristaps Porziņģis,https://www.basketball-reference.com/players/p/porzikr01.html
+WAS,Kristaps Porzingis,https://www.basketball-reference.com/players/p/porzikr01.html
