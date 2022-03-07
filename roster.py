@@ -1,18 +1,8 @@
+from doctest import master
 from bs4 import BeautifulSoup as bs
 import requests as rq
 import pandas as pd
 import unidecode as uc
-
-# Get a list of teams per year
-def get_team_list(year_list):
-    for year in year_list:
-        source_path = "https://www.basketball-reference.com/leagues/NBA_"
-        full_path = source_path + str(year) + ".html"
-        soup_obj = bs(rq.get(full_path).content)
-        team_table = soup_obj.find(lambda tag: tag.name=='table' and tag.has_attr('id') and tag['id']=="per_game-team")
-
-        
-        print(team_table)
 
 # Constants
 team_list_abb = ["ATL", "BRK", "BOS", "CHO", "CHI",
@@ -52,7 +42,7 @@ def get_team_rosters(team_list, year):
 
     master_df.to_csv("NBA Rosters/NBA_roster_" + str(year) + ".csv", index=False)
 
-def get_injury_report(team_list):
+def get_injury_report():
     injury_url = "https://www.basketball-reference.com/friv/injuries.fcgi"
     soup_obj = bs(rq.get(injury_url).content, "lxml")
     injury_table = soup_obj.find(lambda tag: tag.name=='table' and tag.has_attr('id') and tag['id']=="injuries")
@@ -80,7 +70,24 @@ def get_injury_report(team_list):
     output_dictionary = dict(zip(injured_player_list, injury_report_list))
     return output_dictionary
 
+def create_daily_roster(year):
+    cur_roster_path = r"NBA Rosters\NBA_roster_" + str(year) + ".csv"
+    master_df = pd.read_csv(cur_roster_path)
+    injury_dict = get_injury_report()
+    injury_col_to_add = []
+
+    for index, row in master_df.iterrows():
+        cur_player = row['Player']
+        if injury_dict.get(cur_player) != 'None':
+            injury_col_to_add.append(injury_dict.get(cur_player))
+        else:
+            injury_col_to_add.append("")
+
+    new_df = master_df
+    new_df['Injury'] = injury_col_to_add
+    new_df.to_csv(r"NBA Rosters/Daily_roster_" + str(year) + ".csv", index=None)
 
 
-get_injury_report(team_list_abb)
+#get_injury_report()
+create_daily_roster("2022")
 #get_team_rosters(team_list_abb, 2022)
