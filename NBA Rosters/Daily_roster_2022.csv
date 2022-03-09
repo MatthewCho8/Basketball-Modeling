@@ -1,7 +1,7 @@
 Team,Player,Reference,Injury
 ATL,Trae Young,https://www.basketball-reference.com/players/y/youngtr01.html,
 ATL,Delon Wright,https://www.basketball-reference.com/players/w/wrighde01.html,
-ATL,Kevin Huerter,https://www.basketball-reference.com/players/h/huertke01.html,
+ATL,Kevin Huerter,https://www.basketball-reference.com/players/h/huertke01.html,"Sun, Mar 6, 2022: Day To Day (Shoulder) - Huerter is questionable for Monday's (Mar. 7) game against Detroit."
 ATL,Clint Capela,https://www.basketball-reference.com/players/c/capelca01.html,
 ATL,Danilo Gallinari,https://www.basketball-reference.com/players/g/gallida01.html,
 ATL,John Collins,https://www.basketball-reference.com/players/c/collijo01.html,
@@ -10,14 +10,14 @@ ATL,Lou Williams,https://www.basketball-reference.com/players/w/willilo02.html,
 ATL,Gorgui Dieng,https://www.basketball-reference.com/players/d/dienggo01.html,
 ATL,Timothe Luwawu-Cabarrot,https://www.basketball-reference.com/players/l/luwawti01.html,
 ATL,De'Andre Hunter,https://www.basketball-reference.com/players/h/huntede01.html,
-ATL,Onyeka Okongwu,https://www.basketball-reference.com/players/o/okongon01.html,"Sat, Mar 5, 2022: Day To Day (Concussion) - Okongwu did not play in Friday's game (Mar. 4) against the Wizards."
+ATL,Onyeka Okongwu,https://www.basketball-reference.com/players/o/okongon01.html,
 ATL,Skylar Mays,https://www.basketball-reference.com/players/m/mayssk01.html,
 ATL,Jalen Johnson,https://www.basketball-reference.com/players/j/johnsja05.html,
 ATL,Sharife Cooper,https://www.basketball-reference.com/players/c/coopesh01.html,
 ATL,Kevin Knox,https://www.basketball-reference.com/players/k/knoxke01.html,
 BRK,Patty Mills,https://www.basketball-reference.com/players/m/millspa02.html,
 BRK,Bruce Brown,https://www.basketball-reference.com/players/b/brownbr01.html,
-BRK,Cam Thomas,https://www.basketball-reference.com/players/t/thomaca02.html,
+BRK,Cam Thomas,https://www.basketball-reference.com/players/t/thomaca02.html,"Sun, Mar 6, 2022: Day To Day (Back) - Thomas left Sunday's (Mar. 6) game against Boston and will not return."
 BRK,Blake Griffin,https://www.basketball-reference.com/players/g/griffbl01.html,
 BRK,James Johnson,https://www.basketball-reference.com/players/j/johnsja01.html,
 BRK,LaMarcus Aldridge,https://www.basketball-reference.com/players/a/aldrila01.html,
@@ -28,7 +28,7 @@ BRK,Nic Claxton,https://www.basketball-reference.com/players/c/claxtni01.html,
 BRK,David Duke Jr.,https://www.basketball-reference.com/players/d/dukeda01.html,
 BRK,Kyrie Irving,https://www.basketball-reference.com/players/i/irvinky01.html,
 BRK,Joe Harris,https://www.basketball-reference.com/players/h/harrijo01.html,"Thu, Mar 3, 2022: Out For Season (Ankle) - The Nets announced that Harris will miss the rest of the season as he recovers from ankle surgery."
-BRK,Seth Curry,https://www.basketball-reference.com/players/c/curryse01.html,"Sat, Mar 5, 2022: Day To Day (Ankle) - The Nets have listed Curry as PROBABLE for Sunday's game (Mar. 6) against the Celtics."
+BRK,Seth Curry,https://www.basketball-reference.com/players/c/curryse01.html,
 BRK,Andre Drummond,https://www.basketball-reference.com/players/d/drumman01.html,
 BRK,Goran Dragic,https://www.basketball-reference.com/players/d/dragigo01.html,
 BRK,Ben Simmons,https://www.basketball-reference.com/players/s/simmobe01.html,"Sat, Feb 26, 2022: Out (Back) - Brooklyn has no set timetable for Simmons' return, according to Shams Charania of The Athletic."
@@ -38,8 +38,8 @@ BOS,Marcus Smart,https://www.basketball-reference.com/players/s/smartma01.html,
 BOS,Al Horford,https://www.basketball-reference.com/players/h/horfoal01.html,
 BOS,Payton Pritchard,https://www.basketball-reference.com/players/p/pritcpa01.html,
 BOS,Robert Williams,https://www.basketball-reference.com/players/w/williro04.html,
-BOS,Jaylen Brown,https://www.basketball-reference.com/players/b/brownja02.html,"Sat, Mar 5, 2022: Day To Day (Ankle) - The Celtics have listed Brown as QUESTIONABLE for Sunday's game (Mar. 6) against the Nets."
-BOS,Aaron Nesmith,https://www.basketball-reference.com/players/n/nesmiaa01.html,"Sat, Mar 5, 2022: Out (Ankle) - The Celtics have listed Nesmith as OUT for Sunday's game (Mar. 6) against the Nets."
+BOS,Jaylen Brown,https://www.basketball-reference.com/players/b/brownja02.html,
+BOS,Aaron Nesmith,https://www.basketball-reference.com/players/n/nesmiaa01.html,"Sun, Mar 6, 2022: Day To Day (Ankle) - Nesmith did not play in Sunday's game (Mar. 6) against the Nets."
 BOS,Sam Hauser,https://www.basketball-reference.com/players/h/hausesa01.html,
 BOS,Derrick White,https://www.basketball-reference.com/players/w/whitede01.html,
 BOS,Brodric Thomas,https://www.basketball-reference.com/players/t/thomabr01.html,
@@ -57,8 +57,8 @@ CHO,Cody Martin,https://www.basketball-reference.com/players/m/martico01.html,
 CHO,Gordon Hayward,https://www.basketball-reference.com/players/h/haywago01.html,"Wed, Feb 9, 2022: Out (Ankle) - Hayward is out indefinitely after undergoing an MRI on his left ankle."
 CHO,P.J. Washington,https://www.basketball-reference.com/players/w/washipj01.html,
 CHO,Nick Richards,https://www.basketball-reference.com/players/r/richani01.html,
-CHO,Jalen McDaniels,https://www.basketball-reference.com/players/m/mcdanja01.html,"Fri, Mar 4, 2022: Day To Day (Ankle) - The Hornets have listed McDaniels as DOUBTFUL for Saturday's game (Mar. 5) against the Spurs."
-CHO,James Bouknight,https://www.basketball-reference.com/players/b/bouknja01.html,"Fri, Mar 4, 2022: Out (Neck) - The Hornets have listed Bouknight as OUT for Saturday's game (Mar. 5) against the Spurs."
+CHO,Jalen McDaniels,https://www.basketball-reference.com/players/m/mcdanja01.html,"Sun, Mar 6, 2022: Day To Day (Ankle) - McDaniels did not play in Saturday's game (Mar. 5) against the Spurs."
+CHO,James Bouknight,https://www.basketball-reference.com/players/b/bouknja01.html,"Sun, Mar 6, 2022: Day To Day (Neck) - Bouknight did not play in Saturday's game (Mar. 5) against the Spurs."
 CHO,JT Thor,https://www.basketball-reference.com/players/t/thorjt01.html,
 CHO,Kai Jones,https://www.basketball-reference.com/players/j/joneska01.html,
 CHO,Montrezl Harrell,https://www.basketball-reference.com/players/h/harremo01.html,
@@ -67,7 +67,7 @@ CHO,Isaiah Thomas,https://www.basketball-reference.com/players/t/thomais02.html,
 CHO,Arnoldas Kulboka,https://www.basketball-reference.com/players/k/kulboar01.html,
 CHI,DeMar DeRozan,https://www.basketball-reference.com/players/d/derozde01.html,
 CHI,Ayo Dosunmu,https://www.basketball-reference.com/players/d/dosunay01.html,
-CHI,Nikola Vucevic,https://www.basketball-reference.com/players/v/vucevni01.html,
+CHI,Nikola Vucevic,https://www.basketball-reference.com/players/v/vucevni01.html,"Sun, Mar 6, 2022: Day To Day (Hamstring) - Vucevic is questionable for Monday's (Mar. 7) game against Philadelphia."
 CHI,Troy Brown Jr.,https://www.basketball-reference.com/players/b/browntr01.html,
 CHI,Zach LaVine,https://www.basketball-reference.com/players/l/lavinza01.html,
 CHI,Javonte Green,https://www.basketball-reference.com/players/g/greenja02.html,
@@ -93,23 +93,23 @@ CLE,Lauri Markkanen,https://www.basketball-reference.com/players/m/markkla01.htm
 CLE,Dylan Windler,https://www.basketball-reference.com/players/w/windldy01.html,
 CLE,Brandon Goodwin,https://www.basketball-reference.com/players/g/goodwbr01.html,
 CLE,Ed Davis,https://www.basketball-reference.com/players/d/davised01.html,
-CLE,Rajon Rondo,https://www.basketball-reference.com/players/r/rondora01.html,"Sat, Mar 5, 2022: Day To Day (Toe) - The Cavaliers have listed Rondo as DOUBTFUL for Sunday's game (Mar. 6) against the Raptors."
+CLE,Rajon Rondo,https://www.basketball-reference.com/players/r/rondora01.html,"Sun, Mar 6, 2022: Out (Toe) - Rondo is out for Sunday's game (Mar. 6) against Toronto."
 CLE,Collin Sexton,https://www.basketball-reference.com/players/s/sextoco01.html,"Fri, Nov 19, 2021: Out For Season (Knee) - Sexton underwent surgery on a torn meniscus in his left knee and is expected to miss the rest of the season, according to Adrian Wojnarowski of ESPN."
 CLE,RJ Nembhard Jr.,https://www.basketball-reference.com/players/n/nembhrj01.html,
-CLE,Caris LeVert,https://www.basketball-reference.com/players/l/leverca01.html,"Sat, Mar 5, 2022: Day To Day (Foot) - The Cavaliers have listed LeVert as DOUBTFUL for Sunday's game (Mar. 6) against the Raptors."
+CLE,Caris LeVert,https://www.basketball-reference.com/players/l/leverca01.html,"Sun, Mar 6, 2022: Out (Foot) - LeVert is out for Sunday's game (Mar. 6) against Toronto."
 CLE,Tim Frazier,https://www.basketball-reference.com/players/f/fraziti01.html,
 DAL,Dwight Powell,https://www.basketball-reference.com/players/p/poweldw01.html,
-DAL,Jalen Brunson,https://www.basketball-reference.com/players/b/brunsja01.html,
+DAL,Jalen Brunson,https://www.basketball-reference.com/players/b/brunsja01.html,"Sun, Mar 6, 2022: Day To Day (Foot) - Brunson is questionable for Monday's (Mar. 7) game against Utah."
 DAL,Dorian Finney-Smith,https://www.basketball-reference.com/players/f/finnedo01.html,
 DAL,Reggie Bullock,https://www.basketball-reference.com/players/b/bullore01.html,
-DAL,Luka Doncic,https://www.basketball-reference.com/players/d/doncilu01.html,"Sat, Mar 5, 2022: Out (Toe) - Doncic is out for Saturday's game (Mar. 5) against the Kings."
+DAL,Luka Doncic,https://www.basketball-reference.com/players/d/doncilu01.html,"Sun, Mar 6, 2022: Day To Day (Toe) - Doncic is probable for Monday's (Mar. 7) game against Utah."
 DAL,Josh Green,https://www.basketball-reference.com/players/g/greenjo02.html,
 DAL,Frank Ntilikina,https://www.basketball-reference.com/players/n/ntilila01.html,
-DAL,Maxi Kleber,https://www.basketball-reference.com/players/k/klebima01.html,"Fri, Mar 4, 2022: Out (Ankle) - The Mavericks have listed Kleber as OUT for Saturday's game (Mar. 5) against the Kings."
+DAL,Maxi Kleber,https://www.basketball-reference.com/players/k/klebima01.html,"Sun, Mar 6, 2022: Day To Day (Ankle) - Kleber is questionable for Monday's (Mar. 7) game against Utah."
 DAL,Tim Hardaway Jr.,https://www.basketball-reference.com/players/h/hardati02.html,
 DAL,Sterling Brown,https://www.basketball-reference.com/players/b/brownst02.html,
 DAL,Trey Burke,https://www.basketball-reference.com/players/b/burketr01.html,
-DAL,Marquese Chriss,https://www.basketball-reference.com/players/c/chrisma01.html,"Fri, Mar 4, 2022: Out (Knee) - The Mavericks have listed Chriss as OUT for Saturday's game (Mar. 5) against the Kings."
+DAL,Marquese Chriss,https://www.basketball-reference.com/players/c/chrisma01.html,"Sun, Mar 6, 2022: Out (Knee) - Chriss hasn't played since Feb. 10 against the Clippers. No timetable for his return has been announced."
 DAL,Boban Marjanovic,https://www.basketball-reference.com/players/m/marjabo01.html,
 DAL,Theo Pinson,https://www.basketball-reference.com/players/p/pinsoth01.html,"Sat, Feb 26, 2022: Out (Finger) - Pinson hasn't played since Dec. 8 against Detroit. There's no timetable set for his return."
 DAL,Spencer Dinwiddie,https://www.basketball-reference.com/players/d/dinwisp01.html,
@@ -119,12 +119,12 @@ DEN,Jeff Green,https://www.basketball-reference.com/players/g/greenje02.html,
 DEN,Aaron Gordon,https://www.basketball-reference.com/players/g/gordoaa01.html,
 DEN,Monte Morris,https://www.basketball-reference.com/players/m/morrimo01.html,
 DEN,Facundo Campazzo,https://www.basketball-reference.com/players/c/campafa01.html,
-DEN,Nikola Jokic,https://www.basketball-reference.com/players/j/jokicni01.html,"Sat, Mar 5, 2022: Day To Day (Illness) - The Nuggets have listed Jokic as PROBABLE for Sunday's game (Mar. 6) against the Pelicans."
+DEN,Nikola Jokic,https://www.basketball-reference.com/players/j/jokicni01.html,
 DEN,Will Barton,https://www.basketball-reference.com/players/b/bartowi01.html,
 DEN,Bones Hyland,https://www.basketball-reference.com/players/h/hylanbo01.html,
 DEN,JaMychal Green,https://www.basketball-reference.com/players/g/greenja01.html,
-DEN,Austin Rivers,https://www.basketball-reference.com/players/r/riverau01.html,"Sat, Mar 5, 2022: Day To Day (Illness) - The Nuggets have listed Rivers as PROBABLE for Sunday's game (Mar. 6) against the Pelicans."
-DEN,Zeke Nnaji,https://www.basketball-reference.com/players/n/nnajize01.html,"Sat, Mar 5, 2022: Day To Day (Knee) - The Nuggets have listed Nnaji as QUESTIONABLE for Sunday's game (Mar. 6) against the Pelicans."
+DEN,Austin Rivers,https://www.basketball-reference.com/players/r/riverau01.html,
+DEN,Zeke Nnaji,https://www.basketball-reference.com/players/n/nnajize01.html,
 DEN,Davon Reed,https://www.basketball-reference.com/players/r/reedda01.html,
 DEN,Markus Howard,https://www.basketball-reference.com/players/h/howarma02.html,
 DEN,Bryn Forbes,https://www.basketball-reference.com/players/f/forbebr01.html,
@@ -133,12 +133,12 @@ DEN,DeMarcus Cousins,https://www.basketball-reference.com/players/c/couside01.ht
 DEN,Michael Porter Jr.,https://www.basketball-reference.com/players/p/portemi01.html,
 DEN,Jamal Murray,https://www.basketball-reference.com/players/m/murraja01.html,"Thu, Jul 22, 2021: Out (Knee) - Murray is recovering from a torn ACL and no timetable has been announced for his return."
 DET,Saddiq Bey,https://www.basketball-reference.com/players/b/beysa01.html,
-DET,Hamidou Diallo,https://www.basketball-reference.com/players/d/diallha01.html,
+DET,Hamidou Diallo,https://www.basketball-reference.com/players/d/diallha01.html,"Sun, Mar 6, 2022: Day To Day (Illness) - Diallo is questionable for Monday's (Mar. 7) game against Atlanta."
 DET,Isaiah Stewart,https://www.basketball-reference.com/players/s/stewais01.html,
 DET,Cory Joseph,https://www.basketball-reference.com/players/j/josepco01.html,
 DET,Killian Hayes,https://www.basketball-reference.com/players/h/hayeski01.html,
 DET,Cade Cunningham,https://www.basketball-reference.com/players/c/cunnica01.html,
-DET,Frank Jackson,https://www.basketball-reference.com/players/j/jacksfr01.html,"Sat, Mar 5, 2022: Day To Day (Spine) - Jackson did not play in Friday's game (Mar. 4) against the Pacers."
+DET,Frank Jackson,https://www.basketball-reference.com/players/j/jacksfr01.html,"Sun, Mar 6, 2022: Out (Back) - Jackson will be re-evaluated in one week, according to Rod Beard of The Detroit News."
 DET,Jerami Grant,https://www.basketball-reference.com/players/g/grantje01.html,
 DET,Josh Jackson,https://www.basketball-reference.com/players/j/jacksjo02.html,
 DET,Rodney McGruder,https://www.basketball-reference.com/players/m/mcgruro01.html,
@@ -152,8 +152,8 @@ DET,Chris Smith,https://www.basketball-reference.com/players/s/smithch07.html,
 GSW,Kevon Looney,https://www.basketball-reference.com/players/l/looneke01.html,
 GSW,Gary Payton II,https://www.basketball-reference.com/players/p/paytoga02.html,
 GSW,Juan Toscano-Anderson,https://www.basketball-reference.com/players/t/toscaju01.html,
-GSW,Stephen Curry,https://www.basketball-reference.com/players/c/curryst01.html,
-GSW,Andrew Wiggins,https://www.basketball-reference.com/players/w/wiggian01.html,
+GSW,Stephen Curry,https://www.basketball-reference.com/players/c/curryst01.html,"Sun, Mar 6, 2022: Out (Hand) - Curry is out for Monday's (Mar. 7) game against Denver."
+GSW,Andrew Wiggins,https://www.basketball-reference.com/players/w/wiggian01.html,"Sun, Mar 6, 2022: Out (Foot) - Wiggins is out for Monday's (Mar. 7) game against Denver."
 GSW,Jordan Poole,https://www.basketball-reference.com/players/p/poolejo01.html,
 GSW,Nemanja Bjelica,https://www.basketball-reference.com/players/b/bjeline01.html,
 GSW,Otto Porter Jr.,https://www.basketball-reference.com/players/p/porteot01.html,
@@ -163,7 +163,7 @@ GSW,Moses Moody,https://www.basketball-reference.com/players/m/moodymo01.html,
 GSW,Draymond Green,https://www.basketball-reference.com/players/g/greendr01.html,"Mon, Feb 21, 2022: Out (Back) - Green said he's hoping to return within 3-4 weeks."
 GSW,Andre Iguodala,https://www.basketball-reference.com/players/i/iguodan01.html,"Sat, Feb 26, 2022: Out (Back) - Iguodala has not played since Feb. 7 and no timetable has been announced for his return."
 GSW,Chris Chiozza,https://www.basketball-reference.com/players/c/chiozch01.html,
-GSW,Klay Thompson,https://www.basketball-reference.com/players/t/thompkl01.html,
+GSW,Klay Thompson,https://www.basketball-reference.com/players/t/thompkl01.html,"Sun, Mar 6, 2022: Out (Rest) - Thompson is out for Monday's (Mar. 7) game against Denver."
 GSW,Quinndary Weatherspoon,https://www.basketball-reference.com/players/w/weathqu01.html,
 GSW,James Wiseman,https://www.basketball-reference.com/players/w/wisemja01.html,"Mon, Nov 1, 2021: Out (Knee) - The Warriors announced that Wiseman has been cleared to participate in full team practices, but a timetable for his return to game action has not been determined."
 HOU,Jae'Sean Tate,https://www.basketball-reference.com/players/t/tateja01.html,
@@ -179,16 +179,16 @@ HOU,David Nwaba,https://www.basketball-reference.com/players/n/nwabada01.html,
 HOU,Usman Garuba,https://www.basketball-reference.com/players/g/garubus01.html,"Wed, Jan 26, 2022: Out (Wrist) - Garuba will undergo surgery and will miss 6-8 weeks, according to Adrian Wojnarowski of ESPN>"
 HOU,Trevelin Queen,https://www.basketball-reference.com/players/q/queentr01.html,
 HOU,Daishen Nix,https://www.basketball-reference.com/players/n/nixda01.html,
-HOU,Dennis Schroder,https://www.basketball-reference.com/players/s/schrode01.html,"Sat, Mar 5, 2022: Day To Day (Ankle) - The Rockets have listed Schroder as QUESTIONABLE for Sunday's game (Mar. 6) against the Grizzlies."
+HOU,Dennis Schroder,https://www.basketball-reference.com/players/s/schrode01.html,"Sun, Mar 6, 2022: Out (Ankle) - Schroder is out for Sunday's game (Mar. 6) against Memphis."
 HOU,Bruno Fernando,https://www.basketball-reference.com/players/f/fernabr01.html,
 HOU,John Wall,https://www.basketball-reference.com/players/w/walljo01.html,
-IND,Chris Duarte,https://www.basketball-reference.com/players/d/duartch01.html,"Sat, Mar 5, 2022: Day To Day (Toe) - The Pacers have listed Duarte as QUESTIONABLE for Sunday's game (Mar. 6) against the Wizards."
+IND,Chris Duarte,https://www.basketball-reference.com/players/d/duartch01.html,"Sun, Mar 6, 2022: Out (Toe) - Duarte is out for Sunday's game (Mar. 6) against Washington."
 IND,Oshae Brissett,https://www.basketball-reference.com/players/b/brissos01.html,
 IND,Myles Turner,https://www.basketball-reference.com/players/t/turnemy01.html,"Wed, Feb 23, 2022: Out (Foot) - The Pacers announced that Turner is a few weeks from returning to action."
-IND,Goga Bitadze,https://www.basketball-reference.com/players/b/bitadgo01.html,"Sat, Mar 5, 2022: Day To Day (Foot) - The Pacers have listed Bitadze as QUESTIONABLE for Sunday's game (Mar. 6) against the Wizards."
+IND,Goga Bitadze,https://www.basketball-reference.com/players/b/bitadgo01.html,
 IND,Duane Washington Jr.,https://www.basketball-reference.com/players/w/washidu02.html,
 IND,Malcolm Brogdon,https://www.basketball-reference.com/players/b/brogdma01.html,
-IND,Lance Stephenson,https://www.basketball-reference.com/players/s/stephla01.html,"Sat, Mar 5, 2022: Day To Day (Ankle) - The Pacers have listed Stephenson as QUESTIONABLE for Sunday's game (Mar. 6) against the Wizards."
+IND,Lance Stephenson,https://www.basketball-reference.com/players/s/stephla01.html,"Sun, Mar 6, 2022: Out (Ankle) - Stephenson is out for Sunday's game (Mar. 6) against Washington."
 IND,Isaiah Jackson,https://www.basketball-reference.com/players/j/jacksis01.html,
 IND,T.J. McConnell,https://www.basketball-reference.com/players/m/mccontj01.html,"Tue, Dec 7, 2021: Out (Wrist) - The Pacers announced that McConnell will be re-evaluated in February."
 IND,Keifer Sykes,https://www.basketball-reference.com/players/s/sykeske01.html,
@@ -218,10 +218,10 @@ LAC,Jason Preston,https://www.basketball-reference.com/players/p/prestja01.html,
 LAL,Russell Westbrook,https://www.basketball-reference.com/players/w/westbru01.html,
 LAL,Malik Monk,https://www.basketball-reference.com/players/m/monkma01.html,
 LAL,Carmelo Anthony,https://www.basketball-reference.com/players/a/anthoca01.html,
-LAL,Avery Bradley,https://www.basketball-reference.com/players/b/bradlav01.html,"Fri, Mar 4, 2022: Day To Day (Knee) - Bradley is probable for Saturday's (Mar. 5) game against Golden State."
+LAL,Avery Bradley,https://www.basketball-reference.com/players/b/bradlav01.html,
 LAL,Dwight Howard,https://www.basketball-reference.com/players/h/howardw01.html,
-LAL,LeBron James,https://www.basketball-reference.com/players/j/jamesle01.html,"Sat, Mar 5, 2022: Day To Day (Knee) - James is questionable for Saturday's (Mar. 5) game against Golden State."
-LAL,Talen Horton-Tucker,https://www.basketball-reference.com/players/h/hortota01.html,"Fri, Mar 4, 2022: Day To Day (Ankle) - Horton-Tucker is questionable for Saturday's (Mar. 5) game against Golden State."
+LAL,LeBron James,https://www.basketball-reference.com/players/j/jamesle01.html,"Sun, Mar 6, 2022: Day To Day (Knee) - James is questionable for Monday's (Mar. 7) game against San Antonio."
+LAL,Talen Horton-Tucker,https://www.basketball-reference.com/players/h/hortota01.html,"Sun, Mar 6, 2022: Day To Day (Ankle) - Horton-Tucker is probable for Monday's (Mar. 7) game against San Antonio."
 LAL,Austin Reaves,https://www.basketball-reference.com/players/r/reaveau01.html,
 LAL,Anthony Davis,https://www.basketball-reference.com/players/d/davisan02.html,"Thu, Feb 17, 2022: Out (Foot) - The Lakers announced Anthony Davis has a mid-foot sprain and will be re-evaluated in 4 weeks."
 LAL,Wayne Ellington,https://www.basketball-reference.com/players/e/ellinwa01.html,
@@ -238,7 +238,7 @@ MEM,Steven Adams,https://www.basketball-reference.com/players/a/adamsst01.html,
 MEM,Tyus Jones,https://www.basketball-reference.com/players/j/jonesty01.html,
 MEM,De'Anthony Melton,https://www.basketball-reference.com/players/m/meltode01.html,
 MEM,John Konchar,https://www.basketball-reference.com/players/k/konchjo01.html,
-MEM,Kyle Anderson,https://www.basketball-reference.com/players/a/anderky01.html,"Fri, Mar 4, 2022: Day To Day (Foot) - The Grizzlies have listed Anderson as QUESTIONABLE for Saturday's game (Mar. 5) against the Magic."
+MEM,Kyle Anderson,https://www.basketball-reference.com/players/a/anderky01.html,
 MEM,Ja Morant,https://www.basketball-reference.com/players/m/moranja01.html,
 MEM,Brandon Clarke,https://www.basketball-reference.com/players/c/clarkbr01.html,
 MEM,Ziaire Williams,https://www.basketball-reference.com/players/w/willizi02.html,
@@ -247,25 +247,25 @@ MEM,Killian Tillie,https://www.basketball-reference.com/players/t/tilliki02.html
 MEM,Jarrett Culver,https://www.basketball-reference.com/players/c/culveja01.html,
 MEM,Santi Aldama,https://www.basketball-reference.com/players/a/aldamsa01.html,
 MEM,Dillon Brooks,https://www.basketball-reference.com/players/b/brookdi01.html,"Fri, Feb 25, 2022: Out (Ankle) - Grizzlies coach Taylor Jenkins said Brooks is on track to return in early March."
-MEM,Yves Pons,https://www.basketball-reference.com/players/p/ponsyv01.html,"Sun, Feb 27, 2022: Out (Thigh) - Pons hasn't played since Jan. 29 against Washington and there's been no recent update on his return."
+MEM,Yves Pons,https://www.basketball-reference.com/players/p/ponsyv01.html,
 MEM,Sam Merrill,https://www.basketball-reference.com/players/m/merrisa01.html,
 MEM,Tyrell Terry,https://www.basketball-reference.com/players/t/terryty01.html,
 MIA,Duncan Robinson,https://www.basketball-reference.com/players/r/robindu01.html,
-MIA,P.J. Tucker,https://www.basketball-reference.com/players/t/tuckepj01.html,"Fri, Mar 4, 2022: Day To Day (Knee) - The Heat have listed Tucker as QUESTIONABLE for Saturday's game (Mar. 5) against the 76ers."
+MIA,P.J. Tucker,https://www.basketball-reference.com/players/t/tuckepj01.html,
 MIA,Gabe Vincent,https://www.basketball-reference.com/players/v/vincega01.html,
 MIA,Dewayne Dedmon,https://www.basketball-reference.com/players/d/dedmode01.html,
 MIA,Tyler Herro,https://www.basketball-reference.com/players/h/herroty01.html,
-MIA,Max Strus,https://www.basketball-reference.com/players/s/strusma01.html,"Fri, Mar 4, 2022: Day To Day (Shoulder) - The Heat have listed Strus as QUESTIONABLE for Saturday's game (Mar. 5) against the 76ers."
-MIA,Caleb Martin,https://www.basketball-reference.com/players/m/martica02.html,"Fri, Mar 4, 2022: Day To Day (Achilles) - The Heat have listed Martin as QUESTIONABLE for Saturday's game (Mar. 5) against the 76ers."
-MIA,Kyle Lowry,https://www.basketball-reference.com/players/l/lowryky01.html,"Fri, Mar 4, 2022: Out (Personal) - The Heat have listed Lowry as OUT for Saturday's game (Mar. 5) against the 76ers."
+MIA,Max Strus,https://www.basketball-reference.com/players/s/strusma01.html,
+MIA,Caleb Martin,https://www.basketball-reference.com/players/m/martica02.html,"Sun, Mar 6, 2022: Day To Day (Achilles) - Martin is questionable for Monday's (Mar. 7) game against Houston."
+MIA,Kyle Lowry,https://www.basketball-reference.com/players/l/lowryky01.html,"Sun, Mar 6, 2022: Out (Personal) - Lowry is out for Monday's (Mar. 7) game against Houston."
 MIA,Omer Yurtseven,https://www.basketball-reference.com/players/y/yurtsom01.html,
-MIA,Jimmy Butler,https://www.basketball-reference.com/players/b/butleji01.html,"Fri, Mar 4, 2022: Day To Day (Toe) - The Heat have listed Butler as QUESTIONABLE for Saturday's game (Mar. 5) against the 76ers."
+MIA,Jimmy Butler,https://www.basketball-reference.com/players/b/butleji01.html,
 MIA,Bam Adebayo,https://www.basketball-reference.com/players/a/adebaba01.html,
 MIA,Kyle Guy,https://www.basketball-reference.com/players/g/guyky01.html,
 MIA,Markieff Morris,https://www.basketball-reference.com/players/m/morrima02.html,"Thu, Jan 27, 2022: Out (Reconditioning) - Morris has not played in a few months an no timetable has been announced for his return."
 MIA,Udonis Haslem,https://www.basketball-reference.com/players/h/hasleud01.html,
 MIA,Haywood Highsmith,https://www.basketball-reference.com/players/h/highsha01.html,
-MIA,Victor Oladipo,https://www.basketball-reference.com/players/o/oladivi01.html,"Thu, Sep 23, 2021: Out (Right Knee) - Oladipo has yet to be cleared for full-court work, according to David Aldridge of The Athletic."
+MIA,Victor Oladipo,https://www.basketball-reference.com/players/o/oladivi01.html,"Sun, Mar 6, 2022: Day To Day (Knee) - Oladipo is questionable for Monday's (Mar. 7) game against Houston."
 MIA,Javonte Smart,https://www.basketball-reference.com/players/s/smartja01.html,
 MIL,Bobby Portis,https://www.basketball-reference.com/players/p/portibo01.html,
 MIL,Pat Connaughton,https://www.basketball-reference.com/players/c/connapa01.html,"Sun, Feb 13, 2022: Out (Hand) - Connaughton will undergo surgery and is expected to return before the end of the regular season, according to Adrian Wojnarowski of ESPN."
@@ -276,7 +276,7 @@ MIL,Jrue Holiday,https://www.basketball-reference.com/players/h/holidjr01.html,
 MIL,Jordan Nwora,https://www.basketball-reference.com/players/n/nworajo01.html,
 MIL,George Hill,https://www.basketball-reference.com/players/h/hillge01.html,"Sun, Feb 27, 2022: Out (Neck) - Bucks coach Mike Budenholzer said Hill will miss at least another week."
 MIL,Thanasis Antetokounmpo,https://www.basketball-reference.com/players/a/antetth01.html,
-MIL,Wesley Matthews,https://www.basketball-reference.com/players/m/matthwe02.html,"Sat, Mar 5, 2022: Out (Hamstring) - The Bucks have listed Matthews as OUT for Sunday's game (Mar. 6) against the Suns."
+MIL,Wesley Matthews,https://www.basketball-reference.com/players/m/matthwe02.html,"Sun, Mar 6, 2022: Day To Day (Hamstring) - Matthews did not play in Sunday's (Mar. 6) game against Phoenix."
 MIL,Sandro Mamukelashvili,https://www.basketball-reference.com/players/m/mamuksa01.html,
 MIL,Lindell Wigginton,https://www.basketball-reference.com/players/w/wiggili01.html,
 MIL,Serge Ibaka,https://www.basketball-reference.com/players/i/ibakase01.html,
@@ -285,14 +285,14 @@ MIL,DeAndre' Bembry,https://www.basketball-reference.com/players/b/bembrde01.htm
 MIL,Brook Lopez,https://www.basketball-reference.com/players/l/lopezbr01.html,"Fri, Feb 25, 2022: Out (Back) - The Bucks announced that Lopez is starting to practice, but is a ways away from returning to action."
 MIN,Malik Beasley,https://www.basketball-reference.com/players/b/beaslma01.html,
 MIN,Jaden McDaniels,https://www.basketball-reference.com/players/m/mcdanja02.html,
-MIN,Naz Reid,https://www.basketball-reference.com/players/r/reidna01.html,
+MIN,Naz Reid,https://www.basketball-reference.com/players/r/reidna01.html,"Sun, Mar 6, 2022: Day To Day (Hamstring) - Reid is questionable for Monday's (Mar. 7) game against Portland."
 MIN,Jarred Vanderbilt,https://www.basketball-reference.com/players/v/vandeja01.html,
 MIN,Karl-Anthony Towns,https://www.basketball-reference.com/players/t/townska01.html,
-MIN,Anthony Edwards,https://www.basketball-reference.com/players/e/edwaran01.html,"Sat, Mar 5, 2022: Out (Knee) - Edwards is out for Saturday's (Mar. 5) game against Portland."
-MIN,Taurean Prince,https://www.basketball-reference.com/players/p/princta02.html,"Sat, Mar 5, 2022: Day To Day (Back) - The Timberwolves announced that Prince left Saturday's game (Mar. 5) early with back spasms."
+MIN,Anthony Edwards,https://www.basketball-reference.com/players/e/edwaran01.html,"Sun, Mar 6, 2022: Day To Day (Knee) - Edwards is doubtful for Monday's (Mar. 7) game against Portland."
+MIN,Taurean Prince,https://www.basketball-reference.com/players/p/princta02.html,"Sun, Mar 6, 2022: Day To Day (Back) - Prince is questionable for Monday's (Mar. 7) game against Portland."
 MIN,D'Angelo Russell,https://www.basketball-reference.com/players/r/russeda01.html,
 MIN,Jordan McLaughlin,https://www.basketball-reference.com/players/m/mclaujo01.html,
-MIN,Patrick Beverley,https://www.basketball-reference.com/players/b/beverpa01.html,"Sat, Mar 5, 2022: Day To Day (Ankle) - Beverley is questionable for Saturday's (Mar. 5) game against Portland."
+MIN,Patrick Beverley,https://www.basketball-reference.com/players/b/beverpa01.html,"Sun, Mar 6, 2022: Day To Day (Ankle) - Beverley is questionable for Monday's (Mar. 7) game against Portland."
 MIN,Jaylen Nowell,https://www.basketball-reference.com/players/n/nowelja01.html,
 MIN,Josh Okogie,https://www.basketball-reference.com/players/o/okogijo01.html,
 MIN,Nathan Knight,https://www.basketball-reference.com/players/k/knighna01.html,
@@ -324,10 +324,10 @@ NYK,Mitchell Robinson,https://www.basketball-reference.com/players/r/robinmi01.h
 NYK,Obi Toppin,https://www.basketball-reference.com/players/t/toppiob01.html,"Sat, Mar 5, 2022: Out (Hamstring) - The Knicks have listed Toppin as OUT for Sunday's game (Mar. 6) against the Clippers."
 NYK,RJ Barrett,https://www.basketball-reference.com/players/b/barrerj01.html,
 NYK,Quentin Grimes,https://www.basketball-reference.com/players/g/grimequ01.html,"Sat, Feb 26, 2022: Out (Knee) - The Knicks announced that Grimes will be re-evaluated in two weeks."
-NYK,Taj Gibson,https://www.basketball-reference.com/players/g/gibsota01.html,
+NYK,Taj Gibson,https://www.basketball-reference.com/players/g/gibsota01.html,"Sun, Mar 6, 2022: Day To Day (Illness) - Gibson is doubtful for Sunday's (Mar. 6) game against the Clippers."
 NYK,Kemba Walker,https://www.basketball-reference.com/players/w/walkeke02.html,
 NYK,Derrick Rose,https://www.basketball-reference.com/players/r/rosede01.html,"Fri, Feb 25, 2022: Out (Ankle) - The Knicks announced that Rose had a minor procedure on his right ankle. There is no timetable for his return."
-NYK,Nerlens Noel,https://www.basketball-reference.com/players/n/noelne01.html,
+NYK,Nerlens Noel,https://www.basketball-reference.com/players/n/noelne01.html,"Sun, Mar 6, 2022: Out (Foot) - Noel is out for Sunday's (Mar. 6) game against the Clippers."
 NYK,Miles McBride,https://www.basketball-reference.com/players/m/mcbrimi01.html,
 NYK,Jericho Sims,https://www.basketball-reference.com/players/s/simsje01.html,
 NYK,Cam Reddish,https://www.basketball-reference.com/players/r/reddica01.html,
@@ -344,9 +344,9 @@ OKC,Aleksej Pokusevski,https://www.basketball-reference.com/players/p/pokusal01.
 OKC,Jeremiah Robinson-Earl,https://www.basketball-reference.com/players/r/robinje02.html,"Fri, Feb 4, 2022: Out (Foot) - The Thunder announced that Robinson-Earl will miss at least six weeks with a fracture in his foot."
 OKC,Mike Muscala,https://www.basketball-reference.com/players/m/muscami01.html,"Wed, Feb 23, 2022: Out (Ankle) - Thunder coach Mark Daigneault said there remains no timetable for Muscala's return."
 OKC,Derrick Favors,https://www.basketball-reference.com/players/f/favorde01.html,"Sat, Mar 5, 2022: Out (Back) - The Thunder have listed Favors as OUT for Sunday's game (Mar. 6) against the Jazz."
-OKC,Aaron Wiggins,https://www.basketball-reference.com/players/w/wiggiaa01.html,"Sat, Mar 5, 2022: Day To Day (Ankle) - The Thunder have listed Wiggins as QUESTIONABLE for Sunday's game (Mar. 6) against the Jazz."
+OKC,Aaron Wiggins,https://www.basketball-reference.com/players/w/wiggiaa01.html,
 OKC,Theo Maledon,https://www.basketball-reference.com/players/m/maledth01.html,
-OKC,Isaiah Roby,https://www.basketball-reference.com/players/r/robyis01.html,
+OKC,Isaiah Roby,https://www.basketball-reference.com/players/r/robyis01.html,"Sun, Mar 6, 2022: Out (Back) - Roby is out for Sunday's (Mar. 6) game against Utah."
 OKC,Vit Krejci,https://www.basketball-reference.com/players/k/krejcvi01.html,
 OKC,Lindy Waters III,https://www.basketball-reference.com/players/w/waterli01.html,
 OKC,Olivier Sarr,https://www.basketball-reference.com/players/s/sarrol01.html,
@@ -360,7 +360,7 @@ ORL,Chuma Okeke,https://www.basketball-reference.com/players/o/okekech01.html,
 ORL,Cole Anthony,https://www.basketball-reference.com/players/a/anthoco01.html,
 ORL,R.J. Hampton,https://www.basketball-reference.com/players/h/hamptrj01.html,
 ORL,Moritz Wagner,https://www.basketball-reference.com/players/w/wagnemo01.html,
-ORL,Jalen Suggs,https://www.basketball-reference.com/players/s/suggsja01.html,"Sat, Mar 5, 2022: Day To Day (Ankle) - Suggs is questionable for Saturday's (Mar. 5) game against Memphis."
+ORL,Jalen Suggs,https://www.basketball-reference.com/players/s/suggsja01.html,"Sun, Mar 6, 2022: Day To Day (Ankle) - Suggs did not play in Saturday's (Mar. 5) game against Memphis."
 ORL,Ignas Brazdeikis,https://www.basketball-reference.com/players/b/brazdig01.html,
 ORL,Robin Lopez,https://www.basketball-reference.com/players/l/lopezro01.html,
 ORL,Admiral Schofield,https://www.basketball-reference.com/players/s/schofad01.html,
@@ -381,11 +381,11 @@ PHI,Charles Bassey,https://www.basketball-reference.com/players/b/bassech01.html
 PHI,Charlie Brown Jr.,https://www.basketball-reference.com/players/b/brownch02.html,
 PHI,Myles Powell,https://www.basketball-reference.com/players/p/powelmy01.html,
 PHI,Paul Millsap,https://www.basketball-reference.com/players/m/millspa01.html,
-PHI,James Harden,https://www.basketball-reference.com/players/h/hardeja01.html,"Sat, Mar 5, 2022: Out (Rest) - Harden is out for Saturday's (Mar. 5) game against Miami."
+PHI,James Harden,https://www.basketball-reference.com/players/h/hardeja01.html,
 PHI,Jaden Springer,https://www.basketball-reference.com/players/s/sprinja01.html,
 PHI,DeAndre Jordan,https://www.basketball-reference.com/players/j/jordade01.html,
 PHO,Mikal Bridges,https://www.basketball-reference.com/players/b/bridgmi01.html,
-PHO,Cameron Johnson,https://www.basketball-reference.com/players/j/johnsca02.html,"Sat, Mar 5, 2022: Out (Quad) - The Suns have listed Johnson as OUT for Sunday's game (Mar. 6) against the Bucks."
+PHO,Cameron Johnson,https://www.basketball-reference.com/players/j/johnsca02.html,"Sun, Mar 6, 2022: Day To Day (Quad) - Johnson did not play in Sunday's game (Mar. 6) against Milwaukee."
 PHO,Chris Paul,https://www.basketball-reference.com/players/p/paulch01.html,"Sun, Feb 20, 2022: Out (Thumb) - The Suns announced that Paul has a thumb fracture and will be re-evaluated in 6-8 weeks."
 PHO,JaVale McGee,https://www.basketball-reference.com/players/m/mcgeeja01.html,
 PHO,Devin Booker,https://www.basketball-reference.com/players/b/bookede01.html,"Wed, Mar 2, 2022: Out (Health and safety protocols) - The Suns placed Booker in the league's health and safety protocols."
@@ -401,7 +401,7 @@ PHO,Torrey Craig,https://www.basketball-reference.com/players/c/craigto01.html,
 PHO,Aaron Holiday,https://www.basketball-reference.com/players/h/holidaa01.html,
 PHO,Emanuel Terry,https://www.basketball-reference.com/players/t/terryem01.html,
 PHO,Dario Saric,https://www.basketball-reference.com/players/s/saricda01.html,"Wed, Jul 7, 2021: Out (Knee) - The Suns announced that Sario has a torn ACL in his right knee."
-POR,Anfernee Simons,https://www.basketball-reference.com/players/s/simonan01.html,
+POR,Anfernee Simons,https://www.basketball-reference.com/players/s/simonan01.html,"Sun, Mar 6, 2022: Out (Quad) - Simons is out for Monday's (Mar. 7) game against Minnesota."
 POR,Jusuf Nurkic,https://www.basketball-reference.com/players/n/nurkiju01.html,"Wed, Feb 23, 2022: Out (Foot) - The Trail Blazers announced that Nurkic will miss at least four weeks."
 POR,Ben McLemore,https://www.basketball-reference.com/players/m/mclembe01.html,
 POR,Nassir Little,https://www.basketball-reference.com/players/l/littlna01.html,"Mon, Jan 31, 2022: Out For Season (Shoulder) - The Trail Blazers announced that Little will undergo surgery and miss the remainder of the season."
@@ -410,10 +410,10 @@ POR,Trendon Watford,https://www.basketball-reference.com/players/w/watfotr01.htm
 POR,Greg Brown III,https://www.basketball-reference.com/players/b/browngr01.html,
 POR,Damian Lillard,https://www.basketball-reference.com/players/l/lillada01.html,"Sun, Feb 27, 2022: Out (Abdominal) - Lillard will be reevaluated in 2-3 weeks after beginning reconditioning."
 POR,Keljin Blevins,https://www.basketball-reference.com/players/b/blevike01.html,
-POR,Justise Winslow,https://www.basketball-reference.com/players/w/winslju01.html,"Sat, Mar 5, 2022: Out (Achilles) - Winslow is out for Saturday's (Mar. 5) game against Minnesota."
-POR,Josh Hart,https://www.basketball-reference.com/players/h/hartjo01.html,"Sat, Mar 5, 2022: Out (Rest) - Hart is out for Saturday's (Mar. 5) game against Minnesota."
-POR,Elijah Hughes,https://www.basketball-reference.com/players/h/hugheel01.html,
-POR,Brandon Williams,https://www.basketball-reference.com/players/w/willibr03.html,"Sat, Mar 5, 2022: Day To Day (Hip) - Williams is probable for Saturday's (Mar. 5) game against Minnesota."
+POR,Justise Winslow,https://www.basketball-reference.com/players/w/winslju01.html,"Sun, Mar 6, 2022: Out (Achilles) - Winslow is out for Monday's (Mar. 7) game against Minnesota."
+POR,Josh Hart,https://www.basketball-reference.com/players/h/hartjo01.html,
+POR,Elijah Hughes,https://www.basketball-reference.com/players/h/hugheel01.html,"Sun, Mar 6, 2022: Day To Day (Illness) - Hughes is probable for Monday's (Mar. 7) game against Minnesota."
+POR,Brandon Williams,https://www.basketball-reference.com/players/w/willibr03.html,
 POR,Keon Johnson,https://www.basketball-reference.com/players/j/johnske07.html,
 POR,Didi Louzada,https://www.basketball-reference.com/players/l/louzama01.html,
 POR,Joe Ingles,https://www.basketball-reference.com/players/i/inglejo01.html,"Mon, Jan 31, 2022: Out For Season (Knee) - Ingles suffered a torn left ACL in Sunday's (Jan. 30) game against Minnesota."
@@ -424,7 +424,7 @@ SAC,De'Aaron Fox,https://www.basketball-reference.com/players/f/foxde01.html,
 SAC,Chimezie Metu,https://www.basketball-reference.com/players/m/metuch01.html,
 SAC,Maurice Harkless,https://www.basketball-reference.com/players/h/harklma01.html,
 SAC,Damian Jones,https://www.basketball-reference.com/players/j/jonesda03.html,
-SAC,Richaun Holmes,https://www.basketball-reference.com/players/h/holmeri01.html,"Fri, Mar 4, 2022: Day To Day (Back) - The Kings have listed Holmes as QUESTIONABLE for Saturday's game (Mar. 5) against the Mavericks."
+SAC,Richaun Holmes,https://www.basketball-reference.com/players/h/holmeri01.html,
 SAC,Alex Len,https://www.basketball-reference.com/players/l/lenal01.html,
 SAC,Terence Davis,https://www.basketball-reference.com/players/d/daviste02.html,"Thu, Feb 3, 2022: Out (Wrist) - The Kings announced that Davis had surgery on his right wrist. He will be re-evaluated in three months."
 SAC,Neemias Queta,https://www.basketball-reference.com/players/q/quetane01.html,
@@ -432,14 +432,14 @@ SAC,Domantas Sabonis,https://www.basketball-reference.com/players/s/sabondo01.ht
 SAC,Justin Holiday,https://www.basketball-reference.com/players/h/holidju01.html,
 SAC,Donte DiVincenzo,https://www.basketball-reference.com/players/d/divindo01.html,
 SAC,Trey Lyles,https://www.basketball-reference.com/players/l/lylestr01.html,
-SAC,Jeremy Lamb,https://www.basketball-reference.com/players/l/lambje01.html,"Sat, Mar 5, 2022: Day To Day (Hip) - Lamb is questionable for Saturday's (Mar. 5) game against Dallas."
+SAC,Jeremy Lamb,https://www.basketball-reference.com/players/l/lambje01.html,"Sun, Mar 6, 2022: Day To Day (Hip) - Lamb did not play in Saturday's (Mar. 5) game against Dallas."
 SAS,Keldon Johnson,https://www.basketball-reference.com/players/j/johnske04.html,
 SAS,Lonnie Walker IV,https://www.basketball-reference.com/players/w/walkelo01.html,
-SAS,Dejounte Murray,https://www.basketball-reference.com/players/m/murrade01.html,
-SAS,Devin Vassell,https://www.basketball-reference.com/players/v/vassede01.html,
+SAS,Dejounte Murray,https://www.basketball-reference.com/players/m/murrade01.html,"Sun, Mar 6, 2022: Day To Day (Calf) - Murray is questionable for Monday's (Mar. 7) game against the Lakers."
+SAS,Devin Vassell,https://www.basketball-reference.com/players/v/vassede01.html,"Sun, Mar 6, 2022: Day To Day (Groin) - Vassell is questionable for Monday's (Mar. 7) game against the Lakers."
 SAS,Jakob Poeltl,https://www.basketball-reference.com/players/p/poeltja01.html,
 SAS,Tre Jones,https://www.basketball-reference.com/players/j/jonestr01.html,
-SAS,Keita Bates-Diop,https://www.basketball-reference.com/players/b/bateske01.html,
+SAS,Keita Bates-Diop,https://www.basketball-reference.com/players/b/bateske01.html,"Sun, Mar 6, 2022: Day To Day (Back) - Bates-Diop is questionable for Monday's (Mar. 7) game against the Lakers."
 SAS,Doug McDermott,https://www.basketball-reference.com/players/m/mcderdo01.html,
 SAS,Jock Landale,https://www.basketball-reference.com/players/l/landajo01.html,
 SAS,Joshua Primo,https://www.basketball-reference.com/players/p/primojo01.html,
@@ -452,17 +452,17 @@ TOR,Scottie Barnes,https://www.basketball-reference.com/players/b/barnesc01.html
 TOR,Gary Trent Jr.,https://www.basketball-reference.com/players/t/trentga02.html,
 TOR,Precious Achiuwa,https://www.basketball-reference.com/players/a/achiupr01.html,
 TOR,Dalano Banton,https://www.basketball-reference.com/players/b/bantoda01.html,
-TOR,Fred VanVleet,https://www.basketball-reference.com/players/v/vanvlfr01.html,"Sat, Mar 5, 2022: Day To Day (Knee) - The Raptors have listed VanVleet as QUESTIONABLE for Sunday's game (Mar. 6) against the Cavaliers."
+TOR,Fred VanVleet,https://www.basketball-reference.com/players/v/vanvlfr01.html,"Sun, Mar 6, 2022: Out (Knee) - VanVleet is out for Sunday's game (Mar. 6) against Cleveland."
 TOR,Pascal Siakam,https://www.basketball-reference.com/players/s/siakapa01.html,
 TOR,Svi Mykhailiuk,https://www.basketball-reference.com/players/m/mykhasv01.html,
 TOR,OG Anunoby,https://www.basketball-reference.com/players/a/anunoog01.html,"Thu, Mar 3, 2022: Out (Finger) - Anunoby is expected to miss at least two weeks before being re-evaluated, according to Adrian Wojnarowski of ESPN."
-TOR,Malachi Flynn,https://www.basketball-reference.com/players/f/flynnma01.html,"Sat, Mar 5, 2022: Day To Day (Hamstring) - The Raptors have listed Flynn as QUESTIONABLE for Sunday's game (Mar. 6) against the Cavaliers."
+TOR,Malachi Flynn,https://www.basketball-reference.com/players/f/flynnma01.html,"Sun, Mar 6, 2022: Out (Hamstring) - The Raptors announced that Flynn is out indefinitelty."
 TOR,Khem Birch,https://www.basketball-reference.com/players/b/birchkh01.html,
 TOR,Justin Champagnie,https://www.basketball-reference.com/players/c/champju01.html,
 TOR,Yuta Watanabe,https://www.basketball-reference.com/players/w/watanyu01.html,
 TOR,Isaac Bonga,https://www.basketball-reference.com/players/b/bongais01.html,
 TOR,Thaddeus Young,https://www.basketball-reference.com/players/y/youngth01.html,
-TOR,D.J. Wilson,https://www.basketball-reference.com/players/w/wilsodj01.html,"Sat, Mar 5, 2022: Out (Knee) - The Raptors have listed Wilson as OUT for Sunday's game (Mar. 6) against the Cavaliers."
+TOR,D.J. Wilson,https://www.basketball-reference.com/players/w/wilsodj01.html,
 TOR,David Johnson,https://www.basketball-reference.com/players/j/johnsda08.html,
 UTA,Bojan Bogdanovic,https://www.basketball-reference.com/players/b/bogdabo02.html,
 UTA,Jordan Clarkson,https://www.basketball-reference.com/players/c/clarkjo01.html,
@@ -478,7 +478,7 @@ UTA,Jared Butler,https://www.basketball-reference.com/players/b/butleja02.html,
 UTA,Udoka Azubuike,https://www.basketball-reference.com/players/a/azubuud01.html,
 UTA,Danuel House Jr.,https://www.basketball-reference.com/players/h/houseda01.html,
 UTA,Nickeil Alexander-Walker,https://www.basketball-reference.com/players/a/alexani01.html,
-UTA,Juancho Hernangomez,https://www.basketball-reference.com/players/h/hernaju01.html,"Sat, Mar 5, 2022: Day To Day (Hip) - The Jazz have listed Hernangomez as QUESTIONABLE for Sunday's game (Mar. 6) gainst the Thunder."
+UTA,Juancho Hernangomez,https://www.basketball-reference.com/players/h/hernaju01.html,
 UTA,Xavier Sneed,https://www.basketball-reference.com/players/s/sneedxa01.html,
 WAS,Deni Avdija,https://www.basketball-reference.com/players/a/avdijde01.html,
 WAS,Kyle Kuzma,https://www.basketball-reference.com/players/k/kuzmaky01.html,
@@ -496,4 +496,4 @@ WAS,Joel Ayayi,https://www.basketball-reference.com/players/a/ayayijo01.html,
 WAS,Cassius Winston,https://www.basketball-reference.com/players/w/winstca01.html,
 WAS,Tomas Satoransky,https://www.basketball-reference.com/players/s/satorto01.html,
 WAS,Vernon Carey Jr.,https://www.basketball-reference.com/players/c/careyve01.html,
-WAS,Kristaps Porzingis,https://www.basketball-reference.com/players/p/porzikr01.html,"Sat, Mar 5, 2022: Day To Day (Knee) - The Wizards have listed Porzingis as PROBABLE for Sunday's game (Mar. 6) against the Pacers."
+WAS,Kristaps Porzingis,https://www.basketball-reference.com/players/p/porzikr01.html,

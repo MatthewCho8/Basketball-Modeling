@@ -71,7 +71,7 @@ def get_injury_report():
     return output_dictionary
 
 def create_daily_roster(year):
-    cur_roster_path = r"NBA Rosters\NBA_roster_" + str(year) + ".csv"
+    cur_roster_path = r"NBA Rosters/NBA_roster_" + str(year) + ".csv"
     master_df = pd.read_csv(cur_roster_path)
     injury_dict = get_injury_report()
     injury_col_to_add = []
@@ -85,7 +85,7 @@ def create_daily_roster(year):
 
     new_df = master_df
     new_df['Injury'] = injury_col_to_add
-    new_df.to_csv(r"NBA Rosters/Daily_roster_" + str(year) + ".csv", index=None)
+    new_df.to_csv(r"NBA Rosters/daily_roster_" + str(year) + ".csv", index=None)
 
 
 #get_injury_report()
